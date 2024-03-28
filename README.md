@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![MasterHead](https://64.media.tumblr.com/eb4ea98bcba3134fda08835239adc5fa/4b6adb9abe8242d0-aa/s1280x1920/fe387cdace608acd595cd65569e01fbe9169ba90.gifv)
 <h1 align="center">Hi 👋, I'm Yaswanth Adari</h1>
 
 <h3 align="center">Data Engineer | Generative AI | Machine Learning</h3>
